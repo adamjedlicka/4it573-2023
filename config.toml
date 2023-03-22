@@ -1,3 +1,7 @@
 baseURL = 'https://4it573.adamjedlicka.cz/'
 languageCode = 'cs-cz'
 title = 'Základy Node.js'
+theme = 'hugo-book'
+
+[params]
+BookMenuBundle = '/menu'
